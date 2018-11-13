@@ -101,32 +101,3 @@ These startups take their voice applications to the patient's home, and use a vo
 *   [Kencor Health](http://www.kencorhealth.com/) integrates with the latest AI technology to keep your patients engaged in their treatment plan while keeping your team connected to how they are doing.
     
 *   [Pillo](https://www.pillohealth.com/) is like having your very own healthcare companion for your home.
-    
-
-We look forward to continuing to track the progress of these startups, and others who are sure to form in the coming months and years. Even better, we look forward to exploring their solutions live at the just-announced Voice.Health Summit on October 17 in Boston. Learn more about the summit, who will be there (in addition to many of the startups mentioned above), and how you can attend at [voice.health/summit](http://voice.health/summit).
-
-[infographic](/news/?category=infographic)[Jennifer Lannon](/news/?author=53aee10ce4b0061852bf8e6e)August 3, 2018[Original Content By The Voice.Health Team](/news/?tag=Original+Content+By+The+Voice.Health+Team)
-
-[Facebook0](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.voice.health%2Fnews%2F2018-startups) [Twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.voice.health%2Fnews%2F2018-startups&text=The+Voice.Health+Team+sorted+37+startups+building+products+at+the+...) [LinkedIn0](https://www.linkedin.com/shareArticle?mini=true&source=Voice.Health&summary=The+Voice.Health+Team+sorted+37+startups+building+products+at+the+...&url=https%3A%2F%2Fwww.voice.health%2Fnews%2F2018-startups) [0 Likes](#)
-
-[
-
-Previous
-
-#### Voice Assistants Can Help Older Adults
-
-Kazi NeamulAugust 3, 2018
-
-
-
-](https://www.kiplinger.com/article/retirement/T013-C000-S004-voice-assistants-can-help-older-adults.html)[
-
-Next
-
-#### Masayoshi Son: Ping An Good Doctor's AI Healthcare Technology is the Most Advanced in the World
-
-Kazi NeamulJuly 20, 2018
-
-](https://markets.businessinsider.com/news/stocks/masayoshi-son-ping-an-good-doctor-s-ai-healthcare-technology-is-the-most-advanced-in-the-world-1027385380)
-
-![voice-logo-white-no-slogan (1).png](https://static1.squarespace.com/static/5a9f1d7596e76fc01087fd73/t/5b2787da70a6ad7fc9321c2d/1529317362420/voice-logo-white-no-slogan+%281%29.png)
